@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridge", "ShopBridge\ShopBridge.csproj", "{E8A07DCB-0702-4B7A-8EE9-B20CC8BDA622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridgeTest", "ShopBridgeTest\ShopBridgeTest.csproj", "{8CF741B6-CDC5-4FB9-A451-D468932EFF4D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridgeMSTest", "ShopBridgeMSTest\ShopBridgeMSTest.csproj", "{75AD03A0-D118-4F1D-A5BC-D1796168CCF3}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{E8A07DCB-0702-4B7A-8EE9-B20CC8BDA622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A07DCB-0702-4B7A-8EE9-B20CC8BDA622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A07DCB-0702-4B7A-8EE9-B20CC8BDA622}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8CF741B6-CDC5-4FB9-A451-D468932EFF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CF741B6-CDC5-4FB9-A451-D468932EFF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CF741B6-CDC5-4FB9-A451-D468932EFF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CF741B6-CDC5-4FB9-A451-D468932EFF4D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{75AD03A0-D118-4F1D-A5BC-D1796168CCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{75AD03A0-D118-4F1D-A5BC-D1796168CCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75AD03A0-D118-4F1D-A5BC-D1796168CCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
